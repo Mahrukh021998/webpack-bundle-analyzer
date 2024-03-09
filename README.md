@@ -22,7 +22,7 @@ yarn add -D webpack-bundle-analyzer
 ```
 
 <h2 align="center">Usage (as a plugin)</h2>
-
+ delete this line
 ```js
 const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 
